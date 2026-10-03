@@ -1,0 +1,41 @@
+.word-frequency-setting-item {
+  display: flex;
+  align-items: flex-start;
+}
+
+.word-frequency-setting-item-info {
+  flex-shrink: 0;
+}
+
+.word-frequency-setting-blacklist {
+  min-height: 150px;
+  width: 100%;
+}
+
+.word-frequency-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.word-frequency-count-container {
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.word-frequency-count-container span {
+  flex-shrink: 1;
+  max-width: 80%;
+  overflow: hidden;
+  padding-right: 10px;
+}
+
+.word-frequency-button-container {
+  margin-left: 10px;
+  margin-top: 0;
+}

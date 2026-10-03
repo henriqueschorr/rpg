@@ -1,0 +1,31 @@
+{
+  "dayCounts": {
+    "2026-10-03": 344
+  },
+  "todayWordCount": {
+    "daggerheart/character/profile.md": {
+      "initial": 0,
+      "current": 0
+    },
+    "Daggerheart/Character/profile.md": {
+      "initial": 0,
+      "current": 0
+    },
+    "Daggerheart/Character/Profile.md": {
+      "initial": 0,
+      "current": 344
+    },
+    "Untitled.md": {
+      "initial": 0,
+      "current": 0
+    }
+  },
+  "weeklyPlan": {},
+  "currentManuallyModifyWordCount": 0,
+  "dataFile": "",
+  "statisticsFolder": "",
+  "excludeFolder": "",
+  "statisticsWord": true,
+  "enablePlan": true,
+  "weekStart": 0
+}

@@ -1,0 +1,22 @@
+/* Força a tabela a respeitar os limites da largura da tela sem criar scroll */
+.dataview.table-view-table {
+    width: 100% !important;
+    layout-fixed: auto; /* Permite que o navegador calcule as larguras */
+    table-layout: auto !important; 
+    overflow-x: hidden !important; /* Esconde o scroll horizontal */
+}
+
+/* Garante que o conteúdo das células quebre a linha (essencial para a Synopsis) */
+.dataview.table-view-table td, 
+.dataview.table-view-table th {
+    white-space: normal !important; /* Permite quebra de linha */
+    word-break: break-word !important; /* Quebra palavras muito longas se necessário */
+    overflow-wrap: break-word;
+}
+
+/* Ajuste específico para a coluna Mentions que está muito vertical na sua imagem */
+/* Isso ajuda a economizar espaço horizontal */
+.dataview.table-view-table td ul {
+    padding-left: 0;
+    list-style: none;
+}

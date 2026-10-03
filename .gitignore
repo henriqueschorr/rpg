@@ -1,0 +1,13 @@
+# Temporary / Drive upload files
+.tmp.driveupload/
+*.tmp
+*.log
+
+# Obsidian locks and local workspace trash
+*~lock~
+.trash/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,941 @@
+{
+  "settings": {
+    "useAdvancedFormatting": true,
+    "countType": "word",
+    "countConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "countType2": "none",
+    "countConfig2": {
+      "$sessionCountType": "word"
+    },
+    "countType3": "none",
+    "countConfig3": {
+      "$sessionCountType": "word"
+    },
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": false,
+    "alignment": "below",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "none",
+    "folderCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType3": "none",
+    "folderCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showSameCountsOnRoot": true,
+    "rootCountType": "word",
+    "rootCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "none",
+    "rootCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "rootCountType3": "none",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": true,
+    "labelOpacity": 0.75,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "momentDateFormat": "",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "Vault.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770760362503,
+      "modifiedDate": 1770760362503,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Templates/Templates.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770759803950,
+      "modifiedDate": 1770759803950,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Stories/Stories.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770759854899,
+      "modifiedDate": 1770759854899,
+      "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Timeline.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 171,
+      "nonWhitespaceCharacterCount": 140,
+      "newlineCount": 14,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770760889291,
+      "modifiedDate": 1770764200738,
+      "sizeInBytes": 228,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06666666666666667,
+        "wordCount": 20,
+        "characterCount": 171,
+        "nonWhitespaceCharacterCount": 140,
+        "newlineCount": 14
+      },
+      "frontmatter": {
+        "sticker": "lucide//hourglass",
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Setup.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770760518345,
+      "modifiedDate": 1770763806723,
+      "sizeInBytes": 34,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "emoji//2699-fe0f"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Setting.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 96,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.32,
+      "characterCount": 754,
+      "nonWhitespaceCharacterCount": 627,
+      "newlineCount": 42,
+      "readingTimeInMinutes": 0.3622641509433962,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770760983836,
+      "modifiedDate": 1770764203176,
+      "sizeInBytes": 809,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.32,
+        "wordCount": 96,
+        "characterCount": 754,
+        "nonWhitespaceCharacterCount": 627,
+        "newlineCount": 42
+      },
+      "frontmatter": {
+        "sticker": "lucide//globe-2",
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Outline.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 65,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 467,
+      "nonWhitespaceCharacterCount": 372,
+      "newlineCount": 31,
+      "readingTimeInMinutes": 0.24528301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770761164694,
+      "modifiedDate": 1770764243729,
+      "sizeInBytes": 526,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.21666666666666667,
+        "wordCount": 65,
+        "characterCount": 467,
+        "nonWhitespaceCharacterCount": 372,
+        "newlineCount": 31
+      },
+      "frontmatter": {
+        "sticker": "lucide//layout-list",
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Objects/Objects.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770761155645,
+      "modifiedDate": 1770763719900,
+      "sizeInBytes": 29,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "lucide//key"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Objects/Object.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770762831722,
+      "modifiedDate": 1770764240569,
+      "sizeInBytes": 52,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "lucide//key",
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 29,
+      "nonWhitespaceCharacterCount": 24,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770761766856,
+      "modifiedDate": 1770763031304,
+      "sizeInBytes": 59,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 29,
+        "nonWhitespaceCharacterCount": 24,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Locations/Locations.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770761119472,
+      "modifiedDate": 1770763699862,
+      "sizeInBytes": 31,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "lucide//globe"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Locations/Location.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770762816399,
+      "modifiedDate": 1770764233778,
+      "sizeInBytes": 56,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "lucide//map-pin",
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Introduction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 69,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23,
+      "characterCount": 533,
+      "nonWhitespaceCharacterCount": 453,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.26037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770760725831,
+      "modifiedDate": 1770764194390,
+      "sizeInBytes": 595,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.23,
+        "wordCount": 69,
+        "characterCount": 533,
+        "nonWhitespaceCharacterCount": 453,
+        "newlineCount": 15
+      },
+      "frontmatter": {
+        "sticker": "lucide//play-circle",
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Events.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 97,
+      "nonWhitespaceCharacterCount": 72,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770760845789,
+      "modifiedDate": 1770764198421,
+      "sizeInBytes": 159,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.043333333333333335,
+        "wordCount": 13,
+        "characterCount": 97,
+        "nonWhitespaceCharacterCount": 72,
+        "newlineCount": 13
+      },
+      "frontmatter": {
+        "sticker": "lucide//calendar-range",
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Entities/Entity.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770762823897,
+      "modifiedDate": 1770764237027,
+      "sizeInBytes": 58,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "emoji//1f3db-fe0f",
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Entities/Entities.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770761148712,
+      "modifiedDate": 1770763708888,
+      "sizeInBytes": 35,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "emoji//1f3db-fe0f"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Detailed.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 44,
+      "nonWhitespaceCharacterCount": 39,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770761732754,
+      "modifiedDate": 1770764246104,
+      "sizeInBytes": 96,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 44,
+        "nonWhitespaceCharacterCount": 39,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "lucide//list",
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Characters/Summary.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 50,
+      "nonWhitespaceCharacterCount": 32,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770761784149,
+      "modifiedDate": 1770762967688,
+      "sizeInBytes": 90,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.013333333333333334,
+        "wordCount": 4,
+        "characterCount": 50,
+        "nonWhitespaceCharacterCount": 32,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "color": "",
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Characters/Secondary.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 92,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 628,
+      "nonWhitespaceCharacterCount": 522,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.3471698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770761475895,
+      "modifiedDate": 1770764216477,
+      "sizeInBytes": 746,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.30666666666666664,
+        "wordCount": 92,
+        "characterCount": 628,
+        "nonWhitespaceCharacterCount": 522,
+        "newlineCount": 22
+      },
+      "frontmatter": {
+        "sticker": "lucide//person-standing",
+        "color": "var(--mk-color-green)",
+        "story": "Sementes do Fim",
+        "character-type": "secondary"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Characters/Minor.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 33,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11,
+      "characterCount": 224,
+      "nonWhitespaceCharacterCount": 186,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.12452830188679245,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770761577003,
+      "modifiedDate": 1770764220408,
+      "sizeInBytes": 337,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.11,
+        "wordCount": 33,
+        "characterCount": 224,
+        "nonWhitespaceCharacterCount": 186,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "sticker": "lucide//person-standing",
+        "color": "var(--mk-color-gray)",
+        "story": "Sementes do Fim",
+        "character-type": "minor"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Characters/Characters.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770761108789,
+      "modifiedDate": 1770763689484,
+      "sizeInBytes": 41,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "lucide//person-standing"
+      }
+    },
+    "Stories/Sementes do Fim/Setup/Characters/Main.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 65,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 469,
+      "nonWhitespaceCharacterCount": 390,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.24528301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770761205567,
+      "modifiedDate": 1770764212644,
+      "sizeInBytes": 581,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.21666666666666667,
+        "wordCount": 65,
+        "characterCount": 469,
+        "nonWhitespaceCharacterCount": 390,
+        "newlineCount": 22
+      },
+      "frontmatter": {
+        "sticker": "lucide//person-standing",
+        "color": "var(--mk-color-teal)",
+        "story": "Sementes do Fim",
+        "character-type": "main"
+      }
+    },
+    "Stories/Sementes do Fim/Story/Story.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770760504678,
+      "modifiedDate": 1770763786698,
+      "sizeInBytes": 35,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "lucide//book-open"
+      }
+    },
+    "Stories/Sementes do Fim/Story/Second.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 3,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770764636365,
+      "modifiedDate": 1770764660570,
+      "sizeInBytes": 127,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 2,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 3
+      },
+      "frontmatter": {
+        "story": "Sementes do Fim",
+        "pov": "[[Secondary]]",
+        "locations": [
+          "[[Location]]"
+        ],
+        "mentions": [
+          "[[Object]]",
+          "[[Entity]]"
+        ]
+      }
+    },
+    "Stories/Sementes do Fim/Story/Outline View.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 224,
+      "nonWhitespaceCharacterCount": 169,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770764523266,
+      "modifiedDate": 1770767142740,
+      "sizeInBytes": 254,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 224,
+        "nonWhitespaceCharacterCount": 169,
+        "newlineCount": 17
+      },
+      "frontmatter": {
+        "sticker": "lucide//table"
+      }
+    },
+    "Stories/Sementes do Fim/Story/First.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 30,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770762130213,
+      "modifiedDate": 1770767237874,
+      "sizeInBytes": 161,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 38,
+        "nonWhitespaceCharacterCount": 30,
+        "newlineCount": 4
+      },
+      "frontmatter": {
+        "story": "Sementes do Fim",
+        "pov": "[[Main]]",
+        "locations": [
+          "[[Location]]"
+        ],
+        "mentions": [
+          "[[Secondary]]",
+          "[[Object]]"
+        ]
+      }
+    },
+    "Stories/Sementes do Fim/Story/Cover.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770762112823,
+      "modifiedDate": 1770764253116,
+      "sizeInBytes": 61,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "sticker": "lucide//screen-share",
+        "story": "Sementes do Fim"
+      }
+    },
+    "Stories/Sementes do Fim/Sementes do Fim.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1770759877925,
+      "modifiedDate": 1770764298000,
+      "sizeInBytes": 59,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "story-size": "medium",
+        "sticker": "lucide//book",
+        "color": ""
+      }
+    }
+  }
+}
