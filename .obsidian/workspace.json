@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daggerheart/Character/Profile.md",
+                "file": "Daggerheart/Character/Prompts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Profile"
+              "title": "Prompts"
             }
           }
         ]
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daggerheart/Character/Profile.md",
+                "file": "Daggerheart/Character/Prompts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -223,6 +223,11 @@
   },
   "active": "03cbdfd573677de3",
   "lastOpenFiles": [
+    "Daggerheart/Character/Profile.md",
+    "Daggerheart/Character/Prompts.md",
+    "Daggerheart/assets/character/xenotaph_token.png",
+    "Daggerheart/assets/character/xenotaph_token2.png",
+    "Daggerheart/assets/character/fungal_token_transparent_background.png",
     "Daggerheart/assets/character/xenotaph.jpg",
     "Daggerheart/assets/character/character_fungril_six_eyes.jpg",
     "Daggerheart/assets/character/board/clicker.png",
@@ -230,12 +235,7 @@
     "Daggerheart/assets/character/board/madinbu.png",
     "Daggerheart/assets/character/board/my_drawing.png",
     "Daggerheart/assets/character/board/khanivore.png",
-    "Daggerheart/assets/character/board/xenomorph.png",
-    "Daggerheart/assets/character/board/fungril.png",
-    "Daggerheart/assets/character/board/xenomorph_on_4.png",
-    "Daggerheart/Character/Profile.md",
     "Daggerheart/Character/Board.md",
-    "Daggerheart/assets/character/class_card_school_of_knowledge.png",
     "Daggerheart/assets/character/board",
     "Daggerheart/Character/Untitled.canvas",
     "Daggerheart/assets/character/character.md",
