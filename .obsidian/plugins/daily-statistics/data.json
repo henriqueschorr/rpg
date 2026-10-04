@@ -1,23 +1,12 @@
 {
   "dayCounts": {
-    "2026-10-03": 595
+    "2026-10-03": 2469,
+    "2026-10-04": 716
   },
   "todayWordCount": {
-    "daggerheart/character/profile.md": {
-      "initial": 0,
-      "current": 0
-    },
-    "Daggerheart/Character/profile.md": {
-      "initial": 0,
-      "current": 0
-    },
     "Daggerheart/Character/Profile.md": {
-      "initial": 0,
-      "current": 595
-    },
-    "Untitled.md": {
-      "initial": 0,
-      "current": 0
+      "initial": 2544,
+      "current": 3260
     }
   },
   "weeklyPlan": {},

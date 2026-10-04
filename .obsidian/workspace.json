@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25ba172b766051e6",
+        "id": "1886a17a1e057927",
         "type": "tabs",
         "children": [
           {
-            "id": "67af9ef4cb139c4a",
+            "id": "03cbdfd573677de3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,7 +90,7 @@
             }
           },
           {
-            "id": "3aabd6e686d345e6",
+            "id": "08c4fc31d4f7d5d7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 458.5
   },
   "right": {
     "id": "9b75e4b084da102e",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daggerheart/character/profile.md",
+                "file": "Daggerheart/Character/Profile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,17 +197,16 @@
             "state": {
               "type": "CalendarView",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Daily statistics"
+              "icon": "lucide-ghost",
+              "title": "CalendarView"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,23 +217,27 @@
       "bases:Create new base": false,
       "terminal:Open terminal": false,
       "templater-obsidian:Templater": false,
-      "word-frequency:Show word frequency sidebar": false
+      "word-frequency:Show word frequency sidebar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "67af9ef4cb139c4a",
+  "active": "03cbdfd573677de3",
   "lastOpenFiles": [
-    "Daggerheart/assets/character/class_questions.png",
-    "Daggerheart/assets/character/class_card_school_of_knowledge.png",
-    "Daggerheart/assets/character/class_wizard.png",
-    "Daggerheart/assets/character/community_card_wanderborne.png",
-    "Daggerheart/assets/character/community_wanderborne.png",
-    "Daggerheart/assets/character/ancestry_card_fungril.png",
-    "Daggerheart/assets/character/ancestry_fungril.png",
+    "Daggerheart/assets/character/xenotaph.jpg",
+    "Daggerheart/assets/character/character_fungril_six_eyes.jpg",
+    "Daggerheart/assets/character/board/clicker.png",
+    "Daggerheart/assets/character/board/xenomorph_2.png",
+    "Daggerheart/assets/character/board/madinbu.png",
+    "Daggerheart/assets/character/board/my_drawing.png",
+    "Daggerheart/assets/character/board/khanivore.png",
+    "Daggerheart/assets/character/board/xenomorph.png",
+    "Daggerheart/assets/character/board/fungril.png",
+    "Daggerheart/assets/character/board/xenomorph_on_4.png",
     "Daggerheart/Character/Profile.md",
-    "Daggerheart/assets/character/domain_cards_mending_touch.png",
-    "Daggerheart/assets/character/domain_cards_book_of_tyfar.png",
-    "Daggerheart/assets/character/domain_cards_book_of_illiat.png",
-    "Daggerheart/assets/character/domain_cards_book_of_ava.png",
+    "Daggerheart/Character/Board.md",
+    "Daggerheart/assets/character/class_card_school_of_knowledge.png",
+    "Daggerheart/assets/character/board",
+    "Daggerheart/Character/Untitled.canvas",
     "Daggerheart/assets/character/character.md",
     "Vault.md",
     "Daggerheart/assets/character",
