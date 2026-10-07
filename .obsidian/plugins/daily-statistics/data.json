@@ -1,20 +1,42 @@
 {
   "dayCounts": {
     "2026-10-03": 2469,
-    "2026-10-04": 982
+    "2026-10-04": 982,
+    "2026-10-05": 98,
+    "2026-10-07": 7
   },
   "todayWordCount": {
     "Daggerheart/Character/Profile.md": {
-      "initial": 2544,
-      "current": 2434
+      "initial": 2532,
+      "current": 2532
     },
-    "Daggerheart/Character/Untitled.md": {
+    "Daggerheart/Character/Prompts.md": {
+      "initial": 982,
+      "current": 982
+    },
+    "Daggerheart/Characters/xenotaph/xenotaph.md": {
       "initial": 0,
       "current": 0
     },
-    "Daggerheart/Character/Prompts.md": {
+    "Daggerheart/Characters/xenotaph/Xenotaph.md": {
       "initial": 0,
+      "current": 0
+    },
+    "Daggerheart/Characters/Xenotaph/Xenotaph.md": {
+      "initial": 0,
+      "current": 0
+    },
+    "Daggerheart/Characters/Prompts.md": {
+      "initial": 982,
       "current": 982
+    },
+    "Daggerheart/Characters/Profile.md": {
+      "initial": 2532,
+      "current": 2532
+    },
+    "Daggerheart/Characters/Xenotaph/Profile.md": {
+      "initial": 2506,
+      "current": 2513
     }
   },
   "weeklyPlan": {},

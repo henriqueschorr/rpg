@@ -1,10 +1,10 @@
 ## Xeno'taph
 
 ### Full Body Image
-![Xeno'taph](../assets/character/xenotaph.png)
+![Xeno'taph](xenotaph.png)
 
 ### VTT Token
-![Xeno'taph](../assets/character/xenotaph_token.png)
+![Xeno'taph](xenotaph_token.png)
 
 ## Character Creation
 
@@ -67,21 +67,21 @@
 - [[#Goals]]
 
 ### Class & Subclass: Wizard School of Knowledge
-![Class: Wizard](../assets/character/class_wizard.png)
-![Class Card: School of Knowledge](../assets/character/class_card_school_of_knowledge.png)
+![Class: Wizard](class_wizard.png)
+![Class Card: School of Knowledge](class_card_school_of_knowledge.png)
 ### Ancestry: Fungril
-![Ancestry: Fungril](../assets/character/ancestry_fungril.png)
-![Ancestry Card: Fungril](../assets/character/ancestry_card_fungril.png)
+![Ancestry: Fungril](ancestry_fungril.png)
+![Ancestry Card: Fungril](ancestry_card_fungril.png)
 
 ### Community: Wanderborne
-![Community: Wanderborne](../assets/character/community_wanderborne.png)
-![Community Card: Wanderborne](../assets/character/community_card_wanderborne.png)
+![Community: Wanderborne](community_wanderborne.png)
+![Community Card: Wanderborne](community_card_wanderborne.png)
 
 ### Domain Cards Level 1
-![Domain Card: Book of Ava](../assets/character/domain_cards_book_of_ava.png)
-![Domain Card: Book of Illiat](../assets/character/domain_cards_book_of_illiat.png)
-![Domain Card: Book of Tyfar](../assets/character/domain_cards_book_of_tyfar.png)
-![Domain Card: Mending Touch](../assets/character/domain_cards_mending_touch.png)
+![Domain Card: Book of Ava](domain_cards_book_of_ava.png)
+![Domain Card: Book of Illiat](domain_cards_book_of_illiat.png)
+![Domain Card: Book of Tyfar](domain_cards_book_of_tyfar.png)
+![Domain Card: Mending Touch](domain_cards_mending_touch.png)
 ## Physical Appearance
 
 - **Age:** ???
@@ -96,9 +96,9 @@
 - From the crown of my head, an elongated fleshy appendage begins thick and gradually tapers, trailing down to my knees like a hanging crest or tail, lined underneath with ribbed mushroom gills *(reference: Khanivore from Love, Death & Robots / Majin Buu)*.
 - My skin has a damp, rubbery fungal texture, slick with a fine layer of moisture; I breathe continuously through every pore across my entire surface.
 - Dense fungal ridges bloom across both of my shoulders like layered bracket shelves, their interior folds and recesses lined with rich, vibrant reddish-orange fungal tissue *(reference: TLOU Clicker head bloom)*.
-- My arms are disproportionately long and heavy, my forearms encased in a dense, hardened fungal carapace extending into hands with four elongated, claw-tipped alien digits.
-- This same hardened fungal carapace armors my hips, knees, and feet, accented with deep reddish-orange shelf-fungus ridges along my thigh crests.
-- My feet resemble the cloven hooves of a mountain-climbing goat, forged from that same rigid fungal carapace to find purchase on sheer stone.
+- My arms are long, slender, and lithe, extending into asymmetrical, predatory clawed hands—I have nine fingers in total, with four fingers on my right hand and five on my left hand (thumbs counted as fingers).
+- Deep reddish-orange shelf-fungus ridges run along the crests of my thighs, echoing the layered blooms on my shoulders.
+- My feet resemble the cloven hooves of a mountain-climbing goat, forged from rigid, chitinous fungal growth to find purchase on sheer stone.
 - Fine, pale fibrous mycelial root-threads and hyphae web across my body—looping out from beneath my skin and diving back inside across my torso, arms, hips, and legs. However, my faceplate, cranial crest, hands, and hooves are entirely free of mycelium, remaining completely smooth and bare.
 - I am bipedal, though I naturally move with a low, predatory hunch and readily drop to all fours when traversing broken ground or running, just like a Xenomorph.
 - A deep four-pointed star scar marks the center of my torso, an anatomical cleft that I can unseal at will to retrieve or store items within my hollow chest cavity, like a marsupial pouch or living vault.
@@ -113,16 +113,17 @@
 
 - **Primary Weapon:** A monolithic petrified behemoth bone harvested from the ancient carcass in which I first awakened, wielded as my two-handed greatstaff. Its sturdy shaft is encrusted with weathered osteological grain and clusters of small bracket shelf-fungi, tapering to a rounded anatomical joint at the base and crowned with an elaborate blooming layered flower-head at the top, from which faint, pale spores drift into the air.
 - **Armor:** My own dense, rubbery fungal skin, naturally resilient and flexible enough to function as leather armor.
-- **Book I'm trying to translate:** Inscrutable scripts, glyphs, and arcane symbols carved across the surface of my skin and woven deep within my internal tissues.
+- **Book I'm trying to translate:** Inscrutable scripts, glyphs, and arcane symbols carved across the surface of my skin and woven deep within my internal tissues. Whenever the **Voice** instructs me in a new ability, more scripts spontaneously manifest and etch themselves across my flesh.
 - **Nomadic Pack:** The four-pointed star scar centered on my torso, which parts into a hollow internal cavity where I keep my gathered tools and curiosities.
 
 ### Abilities
 
 - My magic manifests as completely biological phenomena rather than conventional arcane incantations.
 - I channel spells through my own anatomy: blooming mycelial filaments, questing tendrils, drifts of bioluminescent spores, and sudden structural growth from my carapace.
+- I learn all my abilities and magical techniques directly through the mental guidance and instructions of the **Voice**. Whenever I learn something new or comprehend a teaching, fresh arcane scripts and glyphs spontaneously manifest and burn themselves across my skin like living ink.
 
 ### Board of References
-![Board of References](../assets/character/reference.png)
+![Board of References](reference.png)
 
 ## Behavior & Mannerisms
 
@@ -147,7 +148,7 @@
 - It was this same **Voice** that bestowed upon me my name—**Xeno'taph**—whispering the syllables directly into my budding consciousness like a designation, an ancient title, or a memorial.
 - I took to the open roads as a wanderer, driven by a solitary, burning imperative: to dissect every piece of this vast world and unravel the mystery of my own genesis.
 - I hold no grand ambition beyond deciphering the purpose of my existence and uncovering the hidden truths of the universe.
-- Each day, I commune across the mycelial web with the **Voice**, posing endless questions and awaiting its inscrutable directives.
+- Each day, I commune across the mycelial web with the **Voice**, posing endless questions and awaiting its inscrutable directives. It is through these mental lessons that I learn my magical abilities; with each new technique or truth I comprehend, fresh arcane scripts and glyphs spontaneously etch themselves directly into my skin like living ink.
 - Who or what is the Voice? Where does it emanate from, and what does it desire from me? Is it a living being, an ancient patron, or perhaps the lingering whispers of **Sylanna's** echoes?
 - Wherever my wandering takes me, I seek out travelers and creatures in distress, offering healing and aid in trade for stories, lore, or intriguing objects.
 - I constantly gather discarded scrap, odd trinkets, and curiosities along the trail—convinced they will one day serve a purpose—and slip them into my hollow torso pouch.

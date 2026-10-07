@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daggerheart/Character/Prompts.md",
+                "file": "Daggerheart/Characters/Xenotaph/Profile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prompts"
+              "title": "Profile"
+            }
+          },
+          {
+            "id": "40779053ae647a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daggerheart/Characters/Xenotaph/Profile.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Profile"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +115,7 @@
             }
           },
           {
-            "id": "08c4fc31d4f7d5d7",
+            "id": "ff2c11a0b1f65ee8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -182,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daggerheart/Character/Prompts.md",
+                "file": "Daggerheart/Characters/Xenotaph/Profile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,10 +246,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "03cbdfd573677de3",
+  "active": "ff2c11a0b1f65ee8",
   "lastOpenFiles": [
-    "Daggerheart/Character/Profile.md",
-    "Daggerheart/Character/Prompts.md",
+    "Daggerheart/Characters/Xenotaph/Prompts.md",
+    "Daggerheart/Characters/Xenotaph/Profile.md",
+    "Daggerheart/Characters/Xenotaph/Xenotaph.md",
+    "Daggerheart/Characters/Xenotaph",
+    "Daggerheart/Characters/Board.md",
     "Daggerheart/assets/character/xenotaph_token.png",
     "Daggerheart/assets/character/xenotaph_token2.png",
     "Daggerheart/assets/character/fungal_token_transparent_background.png",
@@ -235,7 +263,6 @@
     "Daggerheart/assets/character/board/madinbu.png",
     "Daggerheart/assets/character/board/my_drawing.png",
     "Daggerheart/assets/character/board/khanivore.png",
-    "Daggerheart/Character/Board.md",
     "Daggerheart/assets/character/board",
     "Daggerheart/Character/Untitled.canvas",
     "Daggerheart/assets/character/character.md",
@@ -246,7 +273,7 @@
     "//Untitled.canvas",
     "Untitled.md",
     "Tags",
-    "Daggerheart/Character",
+    "Daggerheart/Characters",
     "Daggerheart"
   ]
 }
