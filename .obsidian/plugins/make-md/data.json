@@ -40,12 +40,12 @@
   "expandedSpaces": [
     "/",
     "//daggerheart",
-    "//Daggerheart",
     "//Daggerheart/Daggerheart/character",
     "//Daggerheart/Daggerheart/assets/Daggerheart/assets/character",
     "//Daggerheart/Daggerheart/Character",
-    "//Daggerheart/Daggerheart/Characters",
-    "//Daggerheart/Daggerheart/Characters/Daggerheart/Characters/Xenotaph"
+    "//Daggerheart/Daggerheart/Characters/Daggerheart/Characters/Xenotaph",
+    "//Daggerheart",
+    "//Daggerheart/Daggerheart/Characters"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

@@ -10,7 +10,7 @@
 
 - **Name:** Xeno'taph
 - **Class:** Wizard
-	- [[#Class & Subclass Wizard School of Knowledge|Link to Rulebook Prints]]
+	- [Link to Rulebook Prints](#class--subclass-wizard-school-of-knowledge)
 	- **Domains:** Codex & Splendor
 	- **Starting Evasion:** 11
 	- **Starting Hit Points:** 5
@@ -21,24 +21,24 @@
 		- **Prestidigitation:** You can perform harmless, subtle magical effects at will. For example, you can change an object’s color, create a smell, light a candle, cause a tiny object to float, illuminate a room, or repair a small object. 
 		- **Strange Patterns:** Choose a number between 1 and 12. When you roll that number on a Duality Die, gain a Hope or clear a Stress. You can change this number when you take a long rest.
 - **Subclass:** School of Knowledge
-	- [[#Class & Subclass Wizard School of Knowledge|Link to Rulebook Prints]]
+	- [Link to Rulebook Prints](#class--subclass-wizard-school-of-knowledge)
 	- **Spellcast Trait:** Knowledge
 	- **Foundation Features**
 		- **Prepared:** Take an additional domain card of your level or lower from a domain you have access to.
 		- **Adept:** When you Utilize an Experience, you can mark a Stress instead of spending a Hope. If you do, double your Experience modifier for that roll.
 - **Ancestry:** Fungril
-	- [[#Ancestry Fungril|Link to Rulebook Prints]]
+	- [Link to Rulebook Prints](#ancestry-fungril)
 	- **Features**
 		- **Fungril Network:** Make an Instinct Roll (12) to use your mycelial array to speak with others of your ancestry. On a success, you can communicate across any distance.
 		- **Death Connection:** While touching a corpse that died recently, you can mark a Stress to extract one memory from the corpse related to a specific emotion or sensation of your choice.
 - **Community:** Wanderborne
-	- [[#Community Wanderborne|Link to Rulebook Prints]]
+	- [Link to Rulebook Prints](#community-wanderborne)
 	- **Nomadic Pack:** Add a Nomadic Pack to your inventory. Once per session, you can spend a Hope to reach into this pack and pull out a mundane item that’s useful to your situation. Work with the GM to figure out what item you take out.
 - **Experiences:** 
 	- Experience 1???
 	- Experience 2???
 - **Domain Cards Level 1**
-	- [[#Domain Cards Level 1|Link to Cards]]
+	- [Link to Cards](#domain-cards-level-1)
 	- Book of Ava (Codex)
 	- Book of Illiat || Book of Tyfar ??? 
 	- Mending Touch (Splendor)
@@ -61,10 +61,10 @@
 		- Basic supplies
 		- Handful of gold
 		- Minor Health Potion
-- [[#Physical Appearance]]
-- [[#Behavior & Mannerisms]]
-- [[#Background]]
-- [[#Goals]]
+- [Physical Appearance](#physical-appearance)
+- [Behavior & Mannerisms](#behavior--mannerisms)
+- [Background](#background)
+- [Goals](#goals)
 
 ### Class & Subclass: Wizard School of Knowledge
 ![Class: Wizard](class_wizard.png)
@@ -95,6 +95,7 @@
 - My mouth parts as a toothless, tongueless aperture in the shape of a four-pointed star—a subtle, sealed four-pointed star seam centered across the lower portion of my facial plate that unseals into absolute darkness.
 - From the crown of my head, an elongated fleshy appendage begins thick and gradually tapers, trailing down to my knees like a hanging crest or tail, lined underneath with ribbed mushroom gills *(reference: Khanivore from Love, Death & Robots / Majin Buu)*.
 - My skin has a damp, rubbery fungal texture, slick with a fine layer of moisture; I breathe continuously through every pore across my entire surface.
+- My blood is a viscous, dark liquid like tar, sluggish and pitch-black.
 - Dense fungal ridges bloom across both of my shoulders like layered bracket shelves, their interior folds and recesses lined with rich, vibrant reddish-orange fungal tissue *(reference: TLOU Clicker head bloom)*.
 - My arms are long, slender, and lithe, extending into asymmetrical, predatory clawed hands—I have nine fingers in total, with four fingers on my right hand and five on my left hand (thumbs counted as fingers).
 - Deep reddish-orange shelf-fungus ridges run along the crests of my thighs, echoing the layered blooms on my shoulders.
