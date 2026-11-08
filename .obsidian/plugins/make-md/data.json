@@ -44,8 +44,11 @@
     "//Daggerheart/Daggerheart/assets/Daggerheart/assets/character",
     "//Daggerheart/Daggerheart/Character",
     "//Daggerheart/Daggerheart/Characters/Daggerheart/Characters/Xenotaph",
-    "//Daggerheart",
-    "//Daggerheart/Daggerheart/Characters"
+    "//Daggerheart/Daggerheart/Characters",
+    "//DnD",
+    "//DnD/DnD/Characters",
+    "//DnD/DnD/Characters/DnD/Characters/Jaeger",
+    "//Daggerheart"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

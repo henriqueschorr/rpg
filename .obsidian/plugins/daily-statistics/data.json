@@ -5,12 +5,19 @@
     "2026-10-05": 98,
     "2026-10-07": 7,
     "2026-10-08": 3,
-    "2026-10-09": 0
+    "2026-10-09": 0,
+    "2026-10-11": 5,
+    "2026-10-13": 0,
+    "2026-11-08": 9
   },
   "todayWordCount": {
     "Daggerheart/Characters/Xenotaph/Profile.md": {
-      "initial": 2526,
-      "current": 2526
+      "initial": 2517,
+      "current": 2517
+    },
+    "DnD/Characters/Jaeger/Profile.md": {
+      "initial": 1189,
+      "current": 1198
     }
   },
   "weeklyPlan": {},

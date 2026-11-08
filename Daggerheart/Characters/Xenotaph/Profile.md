@@ -40,7 +40,7 @@
 - **Domain Cards Level 1**
 	- [Link to Cards](#domain-cards-level-1)
 	- Book of Ava (Codex)
-	- Book of Illiat || Book of Tyfar ??? 
+	- Book of Tyfar
 	- Mending Touch (Splendor)
 - **Trait Modifiers**
 	- **Agility:** 0
@@ -52,6 +52,8 @@
 - **Starting Equipment**
 	- **Primary Weapon:** Greatstaff | Knowledge | Very Far | d6 mag | Two-Handed
 		- **Powerful:** On a successful attack, roll an additional damage die and discard the lowest result.
+	- **Secondary Weapon:** Rune Shield | Knowledge | Melee | d4 mag | One-Handed
+		- **Protective:** +1 to Armor Score
 	- **Armor:** Leather Armor | Thresholds 6/13 | Score 3
 	- **Inventory**
 		- Scripts across my body that I'm trying to translate/understand (book I'm trying to translate from Wizard Class)
@@ -79,7 +81,6 @@
 
 ### Domain Cards Level 1
 ![Domain Card: Book of Ava](domain_cards_book_of_ava.png)
-![Domain Card: Book of Illiat](domain_cards_book_of_illiat.png)
 ![Domain Card: Book of Tyfar](domain_cards_book_of_tyfar.png)
 ![Domain Card: Mending Touch](domain_cards_mending_touch.png)
 ## Physical Appearance

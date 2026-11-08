@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daggerheart/Characters/Xenotaph/Profile.md",
+                "file": "DnD/Characters/Jaeger/Profile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -139,7 +139,7 @@
             }
           },
           {
-            "id": "0397629b503b826e",
+            "id": "0311f88d956055fd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daggerheart/Characters/Xenotaph/Profile.md",
+                "file": "DnD/Characters/Jaeger/Profile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -270,12 +270,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0397629b503b826e",
+  "active": "309ed28163e5278a",
   "lastOpenFiles": [
+    "DnD/Characters/Jaeger/jaeger_token.png",
+    "Daggerheart/Characters/Xenotaph/Profile.md",
+    "DnD/Characters/Jaeger/Profile.md",
+    "DnD/Characters/Jaeger/jaeger_token.jpg",
+    "DnD/Characters/Jaeger/jaeger.jpg",
     "Daggerheart/Characters/Xenotaph/Xenotaph.md",
     "Daggerheart/Characters/Board.md",
     "Daggerheart/Characters/Xenotaph/Prompts.md",
-    "Daggerheart/Characters/Xenotaph/Profile.md",
     "Daggerheart/Characters/Xenotaph",
     "Daggerheart/assets/character/xenotaph_token.png",
     "Daggerheart/assets/character/xenotaph_token2.png",
@@ -285,8 +289,6 @@
     "Daggerheart/assets/character/board/clicker.png",
     "Daggerheart/assets/character/board/xenomorph_2.png",
     "Daggerheart/assets/character/board/madinbu.png",
-    "Daggerheart/assets/character/board/my_drawing.png",
-    "Daggerheart/assets/character/board/khanivore.png",
     "Daggerheart/assets/character/board",
     "Daggerheart/Character/Untitled.canvas",
     "Daggerheart/assets/character/character.md",
